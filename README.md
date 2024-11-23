@@ -54,5 +54,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UsmanNadeem575&theme=algolia&utcOffset=8" alt="Productive Time" width="22%">
 </p>
 
+<p  align="center">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=UsmanNadeem575&theme=cobalt2&hide_border=true&border_radius=4&mode=weekly" alt="GitHub Streak" /></a>
+</p>
+
+
   </div>
 </div>
